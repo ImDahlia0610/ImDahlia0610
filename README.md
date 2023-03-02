@@ -1,6 +1,6 @@
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImDahlia0610%2Fhit-counter&count_bg=%23E0F5B1&title_bg=%239EC62A&icon=waze.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Jiyeon's%20Coding%20Diary&fontSize=40&)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Dahlia's%20Coding%20Diary&fontSize=40&)
 
 
 <div align=center>
@@ -8,7 +8,7 @@
 
 #### Hi there 👋
 
-I am Jiyeon studying coding 😊😊😊 
+I am Dahlia studying coding 😊😊😊 
 
 To be honest, I majored in international trade that had nothing to do with coding, 
 
