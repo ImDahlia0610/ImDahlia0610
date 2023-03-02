@@ -21,6 +21,10 @@ I'm not good at it yet, but I'll study hard and
 
 #### 🌼 About Me 🌼
 <div>
+<a href="https://solar-reindeer-9cd.notion.site/Hello-I-m-Jiyeon-efa81b43913847a7888590eacc0b4a95" target="_blank">
+<img src="https://img.shields.io/badge/Notion-yellow?style=flat-squre&logo=Notion&logoColor=white">
+
+
 <a href="https://www.instagram.com/imflower0610/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-squre&logo=Instagram&logoColor=white">
 
